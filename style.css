@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    text-decoration-color:bisque;    
+}
+#marqueeStyle{
+    text-emphasis-color: brown;
+    color: yellow;
+}
+h2{
+  color:darkblue;
+}
+h4{
+  color: darkblue;
+}
+h5{
+  color: darkblue;
+}
+h3{
+  color: darkblue;
+}
+
+
+.navbar-brand{
+    background-color:cornsilk;
+    color:blueviolet
+}
+.Announcements {
+    background-color:cornflowerblue;
+    font-size:20;
+}
+#myNavbar{
+    background-color:black;
+    font-size:22;
+    visibility: visible;
+    list-style-position: outside;
+    box-sizing:border-box;
+    shape-margin: 30;
+    resize:both;
+}
+#Details {
+    visibility: visible;
+    
+    
+}
+.container {
+    background-color: white;
+    border-style: solid;
+}
+
+
+#ContactUs{
+    width: 100%;
+    text-align: center;
+}
